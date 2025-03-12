@@ -1,7 +1,0 @@
-# General
-
-# Backend 
-server/build/libs
-
-**/node_modules
-ui/build
