@@ -30,7 +30,6 @@ fi
 #    welcome
 #fi
 
-#eval "$(rbenv init -)"
 
 # from brew install bash-completion
 [[ -r "/usr/local/etc/profile.d/bash_completion.sh" ]] && . "/usr/local/etc/profile.d/bash_completion.sh"
