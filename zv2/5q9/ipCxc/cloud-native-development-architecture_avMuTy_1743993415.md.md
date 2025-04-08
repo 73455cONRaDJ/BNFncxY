@@ -45,7 +45,6 @@ Instance ID: i-0e95d50239efafa0d
 
 ---
 
-### 5. ✅ Logged into EC2 via RDP  
 EC2 instance desktop accessed using Remote Desktop.
 
 ---
