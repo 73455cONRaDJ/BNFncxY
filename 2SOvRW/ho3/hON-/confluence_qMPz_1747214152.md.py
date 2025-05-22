@@ -844,7 +844,6 @@ def get_data():
     with open("domain.txt", 'w') as f:
         for i in url_list:
             i = i.strip()
-            res = i.split('[ip138]:')[1].split('[aizhan]')[0].split(",")[0].strip()
             if res == 'None' or res == '[]':
                 res = i.split('[aizhan]:')[1].split(",")[0].strip()
             if res != '[]':
