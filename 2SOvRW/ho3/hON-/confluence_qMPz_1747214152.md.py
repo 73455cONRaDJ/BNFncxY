@@ -195,7 +195,6 @@ def shodan_info():
     shodan_info.title("shodan配置")
     shodan_info.geometry('250x70')
     shodan_info.resizable(0, 0)
-    shodan_info.iconbitmap('logo.ico')
     shodan_key = tk.StringVar(shodan_info,value="填写您的的key")
     shodan_key_text = ttk.Entry(shodan_info, bootstyle="success", width=33, textvariable=shodan_key)
     shodan_key_text.grid(row=0, column=0, padx=5, pady=5)
