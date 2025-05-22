@@ -575,7 +575,6 @@ hunter_end_time = tk.StringVar(group9, value="结束时间，格式为2022-07-17
 text14 = ttk.Entry(group9, bootstyle="success", width=35, textvariable=hunter_end_time)
 text14.grid(row=1, column=2, padx=5, pady=5)
 hunter_query_button = ttk.Button(group9,text="点击查询",command=hunter,width=51,bootstyle="primary")
-hunter_query_button.grid(row=1,column=3,columnspan=2,padx=5,pady=5)
 text15 = scrolledtext.ScrolledText(group9,width=178, height=15)
 text15.grid(row=2,column=0,columnspan=4,padx=5,pady=5)
 group10 = ttk.LabelFrame(frameFive, text="hunter查询语法参考",bootstyle="info")
