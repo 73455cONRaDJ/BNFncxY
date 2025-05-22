@@ -648,7 +648,6 @@ http.status:200
 http.server:Apache/2.4.7
 http.server:PHP
 
-------指定地理位置
 geo:"31.25,121.44"
 
 ------指定ISP供应商
