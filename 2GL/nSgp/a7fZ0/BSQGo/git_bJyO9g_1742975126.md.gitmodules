@@ -123,7 +123,6 @@
 	path = assets/syntaxes/02_Extra/GraphQL
 	url = https://github.com/dncrews/GraphQL-SublimeText3.git
 [submodule "assets/syntaxes/Verilog"]
-	path = assets/syntaxes/02_Extra/Verilog
 	url = https://github.com/pro711/sublime-verilog
 [submodule "assets/syntaxes/SCSS_Sass"]
 	path = assets/syntaxes/02_Extra/SCSS_Sass
