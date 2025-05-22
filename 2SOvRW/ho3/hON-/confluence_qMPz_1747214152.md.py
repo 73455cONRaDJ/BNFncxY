@@ -999,7 +999,6 @@ def exec_function():
     text7.see(END)
 def rankquery():
     get_data()
-    exec_function()
 group6.grid(row=0,column=2,padx=10, pady=10)
 buttonone = ttk.Button(group5,text="IP反查域名",command=ip2domain,width=99,bootstyle="primary")
 buttonone.grid(row=0,column=0,padx=5,pady=5)
