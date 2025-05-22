@@ -953,7 +953,6 @@ def google_simple(url, j):
         return result, bz
     except:
         if (http_or_find != 0):
-            result = "[!]格式错误:" + "j"
             return result, bz
         else:
             time.sleep(3)
