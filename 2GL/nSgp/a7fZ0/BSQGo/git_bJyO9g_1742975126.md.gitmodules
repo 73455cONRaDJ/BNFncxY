@@ -114,7 +114,6 @@
 	url = https://github.com/zaynali53/DotENV
 [submodule "assets/syntaxes/hosts"]
 	path = assets/syntaxes/02_Extra/hosts
-	url = https://github.com/brandonwamboldt/sublime-hosts
 [submodule "assets/syntaxes/ssh-config"]
 	path = assets/syntaxes/02_Extra/ssh-config
 	url = https://github.com/robballou/sublimetext-sshconfig.git
