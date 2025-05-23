@@ -918,7 +918,6 @@ def seo(domain, url):
         bd_mb.append(result)
     return True
 def exp(url):
-    try:
         main_domain = url.split('[domain]:')[1]
         ext = tldextract.extract(main_domain)
         domain = '.'.join(ext[1:])
