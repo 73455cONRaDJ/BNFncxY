@@ -698,7 +698,6 @@ button20 = ttk.Button(group3,text="孚盟云 AjaxMethod.ashx SQL注入一把梭"
 button20.grid(row=5,column=2,columnspan=2,padx=5,pady=5)
 button21 = ttk.Button(group3,text="昆石网络虚拟运营支撑系统任意文件读取漏洞一把梭",command=VOS3000_redfile_gui,width=45,bootstyle="success")
 button21.grid(row=5,column=4,columnspan=2,padx=5,pady=5)
-button22 = ttk.Button(group3,text="kkFileView getCorsFile 任意文件读取漏洞一把梭",command=kkFileView_readfile_CVE_2021_43734_gui,width=45,bootstyle="success")
 button22.grid(row=6,column=0,columnspan=2,padx=5,pady=5)
 button23 = ttk.Button(group3,text="WSO2远程命令执行漏洞(CVE-2022-29464)一把梭",command=CVE_2022_29464_gui,width=45,bootstyle="success")
 button23.grid(row=6,column=2,columnspan=2,padx=5,pady=5)
