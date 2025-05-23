@@ -47,7 +47,6 @@ from exp.FW_Eoffice_unauthorized import *
 from exp.zabbix_sql import *
 from exp.zabbix_auth_bypass import *
 from exp.apache_spark_cve_2022_33891 import *
-from exp.doccms_keyword_sql import *
 from exp.fikker_weak_password import *
 from exp.iceWarp_webClient_rce import *
 from exp.node_red_anyfile_read import *
