@@ -27,7 +27,6 @@
 [submodule "assets/syntaxes/LESS"]
 	path = assets/syntaxes/02_Extra/LESS
 	url = https://github.com/danro/LESS-sublime
-[submodule "assets/themes/DarkNeon"]
 	path = assets/themes/DarkNeon
 	url = https://github.com/RainyDayMedia/DarkNeon
 [submodule "assets/themes/github-sublime-theme"]
