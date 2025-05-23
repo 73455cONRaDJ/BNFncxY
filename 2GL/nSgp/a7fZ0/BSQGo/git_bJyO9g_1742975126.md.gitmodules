@@ -65,7 +65,6 @@
 	url = https://github.com/sonph/onehalf
 [submodule "assets/syntaxes/JavaScript (Babel)"]
 	path = assets/syntaxes/02_Extra/JavaScript_(Babel)
-	url = https://github.com/babel/babel-sublime
 [submodule "assets/syntaxes/FSharp"]
 	path = assets/syntaxes/02_Extra/FSharp
 	url = https://github.com/hoest/sublimetext-fsharp
