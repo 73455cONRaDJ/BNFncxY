@@ -901,7 +901,6 @@ def seo(domain, url):
         if flag == 0:
             text7.insert(END, chars=f"[!] 目标{url}检测失败，已写入fail.txt等待重新检测\n{domain}\n")
             text7.see(END)
-            with open('fail.txt', 'a', encoding='utf-8') as o:
                 o.write(url + '\n')
         else:
             text7.insert(END, chars=f"[!!]目标{url}第二次检测失败\n{domain}\n")
