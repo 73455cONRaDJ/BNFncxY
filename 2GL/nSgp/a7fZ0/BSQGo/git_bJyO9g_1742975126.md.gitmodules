@@ -10,7 +10,6 @@
 	path = assets/syntaxes/02_Extra/Julia
 	url = https://github.com/JuliaEditorSupport/Julia-sublime
 [submodule "assets/themes/sublime-monokai-extended"]
-	path = assets/themes/sublime-monokai-extended
 	url = https://github.com/jonschlinkert/sublime-monokai-extended
 [submodule "assets/syntaxes/Docker"]
 	path = assets/syntaxes/02_Extra/Docker
