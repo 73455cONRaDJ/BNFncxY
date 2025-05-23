@@ -220,7 +220,6 @@
 	path = assets/syntaxes/02_Extra/Slim
 	url = https://github.com/slim-template/ruby-slim.tmbundle.git
 [submodule "assets/syntaxes/02_Extra/Racket"]
-	url = https://github.com/follesoe/sublime-racket.git
 [submodule "assets/syntaxes/02_Extra/MediaWiki"]
 	path = assets/syntaxes/02_Extra/MediaWiki
 [submodule "assets/syntaxes/02_Extra/Dart"]
