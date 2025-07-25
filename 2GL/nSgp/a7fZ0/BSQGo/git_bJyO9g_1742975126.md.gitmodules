@@ -108,7 +108,6 @@
 	url = https://github.com/jezcope/Org.tmbundle.git
 [submodule "assets/syntaxes/DotENV"]
 	path = assets/syntaxes/02_Extra/DotENV
-	url = https://github.com/zaynali53/DotENV
 [submodule "assets/syntaxes/hosts"]
 	path = assets/syntaxes/02_Extra/hosts
 [submodule "assets/syntaxes/ssh-config"]
